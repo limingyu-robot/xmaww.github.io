@@ -6,7 +6,7 @@ title: "Mingyu Li"
 title_separator: "-"
 name: "Mingyu Li"
 description: "Master Student at Southeast University | Dexterous Manipulation, Vision-Tactile Fusion"
-url: "https://xmaww.github.io"
+url: "https://limingyu-robot.github.io"
 # ==============================================================================
 # Author (作者信息 - 会显示在左侧边栏)
 # ==============================================================================
@@ -19,7 +19,7 @@ author:
   email: "220243720@seu.edu.cn"
   
   # 社交账号链接 (按需取消注释并填入你的 ID)
-  github: "xmaww" 
+  github: "limingyu-robot" 
   # googlescholar: "YOUR_SCHOLAR_ID" # 强烈建议注册并填上谷歌学术ID
   # orcid: "YOUR_ORCID_ID" # 学术常用身份标识
   # linkedin: "YOUR_LINKEDIN_ID"
