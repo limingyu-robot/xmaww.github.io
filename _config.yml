@@ -12,7 +12,7 @@ url: "https://xmaww.github.io"
 # ==============================================================================
 author:
   name: "Mingyu Li" # 
-  avatar: "生活照.jpg" # 请将你的照片重命名为 profile.png 并放入 images/ 文件夹
+  avatar: "life.jpg" # 请将你的照片重命名为 profile.png 并放入 images/ 文件夹
   bio: "Master's student at Southeast University focusing on robotic perception, vision-tactile fusion, dexterous manipulation, and reinforcement learning." 
   location: "Nanjing, China" # [cite: 6]
   employer: "Southeast University" # [cite: 4]
